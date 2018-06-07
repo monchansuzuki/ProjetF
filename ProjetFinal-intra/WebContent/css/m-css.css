@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+#left-side{
+	
+	height: 100%;
+	background-color: yellow;
+	
+	
+}
+.pl{
+	padding-left: 16px;
+}
